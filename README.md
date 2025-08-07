@@ -29,7 +29,7 @@
   <a href="https://linkedin.com/in/brijeshco" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.brijeshco.tech" target="_blank">
+  <a href="https://portfolio-dzi68fjze-vegetas-projects-507930e7.vercel.app/#projects" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
